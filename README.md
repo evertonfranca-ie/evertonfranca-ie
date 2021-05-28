@@ -30,6 +30,9 @@ I'm a web development student passionated about coding and technology. I've been
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width:100%;"></img>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evertonfranca-ie&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertonfranca-ie&layout=compact)](https://github.com/evertonfranca-ie/github-readme-stats)
+
 
 
 <!--
