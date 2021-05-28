@@ -1,7 +1,7 @@
 ### Hi there! I'm Everton França :man_in_tuxedo: Welcome to my GitHub! <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width:100%;"></img>
 
 #### Front-End Developer :desktop_computer::keyboard::computer_mouse:
-Hello, I'm a brazilian student trying to get used with myself, code fluently and develop a good portion of my billion ideas. I'm currently studying fullstack web development, focusing on the Front-end but with no chance to abandon Back-end lol... I'm a semi beginner self learning web developer looking to make contact with devs who want to build small projects with potential. 💙:earth_americas:
+Hello, I'm a brazilian student trying to get used with myself, code fluently and develop a good portion of my billion ideas. I'm currently studying fullstack web development, focusing on the Front-end but with no chance to abandon Back-end lol... I'm a semi beginner self learning web developer looking to make contact with devs who want to build small projects with potential. :heart:💙:earth_americas:
 
 
 ### Contact With Me: 💻📱
