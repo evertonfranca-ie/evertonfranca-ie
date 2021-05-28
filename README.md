@@ -1,9 +1,9 @@
-### Hi there! I'm Everton França, Welcome to my GitHub! 👋
+### Hi there! I'm Everton França, Welcome to my GitHub! :man_in_tuxedo:👋
+#### Front-End Developer:desktop_computer::keyboard::computer_mouse:
+Hello, I'm a brazilian student trying to get used with myself, code fluently and develop a good portion of my billion ideas. I'm currently studying fullstack web development, focusing on the Front-end but with no chance to abandon Back-end lol... I'm a semi beginner self learning web developer looking to make contact with devs who want to build small projects with potential💙:rocket:
 
-I'm a web development student passionated about coding and technology. I've been programming for a few months focusing on studying and producing a little bit of something everyday so I can reach my goal of becoming an fantastic full stack developer! 🚀💛
 
-
-### Contact with me:
+### Contact with me: 💻 📱
 <a href="https://www.linkedin.com/in/everton-fran%C3%A7a-a154a516a/" target="_blank">
   <img align="center" alt="everton-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
   </a>
@@ -15,7 +15,7 @@ I'm a web development student passionated about coding and technology. I've been
   </a>
   
 
-### My Skills:
+### My Skills: :man_technologist:
 
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></img>
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></img>
