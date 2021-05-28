@@ -3,7 +3,7 @@
 Hello, I'm a brazilian student trying to get used with myself, code fluently and develop a good portion of my billion ideas. I'm currently studying fullstack web development, focusing on the Front-end but with no chance to abandon Back-end lol... I'm a semi beginner self learning web developer looking to make contact with devs who want to build small projects with potential💙:rocket:
 
 
-### Contact with me: 💻 📱
+### Contact with me: 💻📱
 <a href="https://www.linkedin.com/in/everton-fran%C3%A7a-a154a516a/" target="_blank">
   <img align="center" alt="everton-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
   </a>
