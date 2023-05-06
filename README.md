@@ -33,7 +33,7 @@ Hello, I'm a brazilian student trying to get used with myself, code fluently and
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width:100%;"></img>
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="max-width:100%;"></img>
 <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%;"></img>
-<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img>>
+<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width:100%;"></img>
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="max-width:100%;"></img>
 
 
