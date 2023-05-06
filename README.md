@@ -31,7 +31,7 @@ Hello, I'm a brazilian student trying to get used with myself, code fluently and
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width:100%;"></img>
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width:100%;"></img>
 <img align="center" height="30" width="30" src="https://cdn.dribbble.com/users/1169868/avatars/normal/e546fafff6f48ae43bdbc25ab2460fcb.png?1475594720" style="max-width:100%;"></img>
-
+<img align="center" height="30" width="30" src= "https://icongr.am/devicon/react-original.svg?size=128&color=currentColor"style="max-width:100%;"></img>
 
 
  
