@@ -28,11 +28,11 @@ Hello, I'm a brazilian student trying to get used with myself, code fluently and
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;"></img>
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="max-width:100%;"></img>
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" style="max-width:100%;"></img>
-<img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width:100%;"></img>
+<img align="center" alt="everton-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="max-width:100%;"></img>
 <img align="center" alt="everton-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width:100%;"></img>
 <img align="center" height="30" width="30" src="https://cdn.dribbble.com/users/1169868/avatars/normal/e546fafff6f48ae43bdbc25ab2460fcb.png?1475594720" style="max-width:100%;"></img>
-<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="max-width:100%;"></img>
-<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="max-width:100%;"></img>
+<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;"></img>
+<img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width:100%;"></img>
           
  
 
